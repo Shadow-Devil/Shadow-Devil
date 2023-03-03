@@ -1,7 +1,7 @@
 ### Hi there! 👋  
 I'm Felix, a student at the Technical University Munich 👨‍🎓 and currently working as a working student at Arlanis Reply. I'm passionate about software development and exploring new technologies. I'm particularly interested in integrations with Mulesoft, APIs, and anything Salesforce-related.
 
-### My interests 🤔
+### My interests
 I have a strong interest in programming languages 🖥️, type systems 🧠, and DataWeave 📊. I am proficient in several programming languages, including Python 🐍, Java ☕, Kotlin, Groovy, Haskell, JavaScript, and TypeScript.
 
 ### Connect with me 🤝
