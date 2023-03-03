@@ -6,5 +6,3 @@ I have a strong interest in programming languages 🖥️, type systems 🧠, an
 
 ### Connect with me 🤝
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/f-schnabel) to see what I'm up to and to discuss any exciting opportunities. You can also find me on [Spotify](https://open.spotify.com/user/11173173655?si=6e482765bfac40a5) to check out my music taste. 🎧
-
-Thanks for checking out my profile! 😊
