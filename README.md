@@ -5,4 +5,4 @@ I'm Felix, a student at the [Technical University Munich](https://tum.de/) and c
 I have a strong interest in programming languages, type systems, and DataWeave. I am proficient in several programming languages, including Python 🐍, Java ☕, Kotlin, Groovy, Haskell, Php, JavaScript, and TypeScript.
 
 ### Connect with me 🤝
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/f-schnabel) to see what I'm up to and to discuss any exciting opportunities. You can also find me on [Spotify](https://open.spotify.com/user/11173173655?si=6e482765bfac40a5) to check out my music taste. 🎧
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/f-schnabel) to see what I'm up to and to discuss any exciting opportunities.
